@@ -2,6 +2,6 @@ package com.atguigu.test;
 
 public class Happy {
    public static void main(String[] args) {
-	 System.out.println("状态改变");
+	 System.out.println("状态改变"+"right");
 }
 }
